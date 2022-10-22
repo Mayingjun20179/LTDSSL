@@ -1,5 +1,5 @@
 %%%%逻辑张量分解+稀疏子空间学习
-function pre_tensor = SSLLTD_opt(train_tensor, FUV,option)
+function pre_tensor = LTDSSL_opt(train_tensor, FUV,option)
 R = option(1);  %表示因子矩阵的维度
 ar = option(2);  %特征正则化参数
 c = option(3);
