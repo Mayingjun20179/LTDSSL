@@ -17,6 +17,8 @@ Where,
 
 "TDRC" stands for "Tensor decomposition with relational constraints", referenced from "Huang F, Yue X, Xiong Z, Yu Z, Liu S, Zhang W: Tensor decomposition with relational constraints for predicting multiple types of microRNA-disease associations. Brief Bioinform 2021, 22(3)."
 
-"TFAI" stands for "tensor factorization and label propagation", referenced from "Yu N, Liu Z-P, Gao R: Predicting multiple types of MicroRNA-disease associations based on tensor factorization and label propagation. Computers in Biology and Medicine 2022, 146."
+"TFAI" stands for "Tensor factorization using Auxiliary information", referenced from "Huang F, Yue X, Xiong Z, Yu Z, Liu S, Zhang W: Tensor decomposition with relational constraints for predicting multiple types of microRNA-disease associations. Brief Bioinform 2021, 22(3)."
+
+"TFLP" stands for "tensor factorization and label propagation", referenced from "Yu N, Liu Z-P, Gao R: Predicting multiple types of MicroRNA-disease associations based on tensor factorization and label propagation. Computers in Biology and Medicine 2022, 146."
 
 "WeightTDAIGN" stands for Graph Regularized Weighted Tensor Decomposition, referenced from "Ouyang D, Miao R, Wang J, Liu X, Xie S, Ai N, Dang Q, Liang Y: Predicting Multiple Types of Associations Between miRNAs and Diseases Based on Graph Regularized Weighted Tensor Decomposition. Frontiers in Bioengineering and Biotechnology 2022, 10:859.”
