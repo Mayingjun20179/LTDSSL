@@ -1,13 +1,13 @@
 # LTDSSL
 Logistic tensor decomposition with sparse subspace learning for prediction of multiple disease types of human-virus protein-protein interactions
 
-1) The compressed package "LTDSSL_CP_BCPF" contains three methods LTDSSL, CP and BCPF, and two benchmark datasets "HMDD v3.2" and "HVD" for cross-experimentation in this paper.
+1. The compressed package "LTDSSL_CP_BCPF" contains three methods LTDSSL, CP and BCPF, and two benchmark datasets "HMDD v3.2" and "HVD" for cross-experimentation in this paper.
 The folder "human_virus_data" corresponds to the data and code corresponding to the benchmark dataset "HVD";
 The folder "hmddv3_data" corresponds to the data and code corresponding to the benchmark dataset "HMDD v3.2";
 The codes of these three methods are realized by using matlab language.
 
 
-(2) The compressed package "TDRC_TFAI_TFLP_WeightTDAIGN" contains four methods TDRC, TFAI, TFLP and WeightTDAIGN, and two benchmark datasets "HMDD v3.2" and "HVD" for cross-experimentation in this paper.
+2. The compressed package "TDRC_TFAI_TFLP_WeightTDAIGN" contains four methods TDRC, TFAI, TFLP and WeightTDAIGN, and two benchmark datasets "HMDD v3.2" and "HVD" for cross-experimentation in this paper.
 The folder "human_virus_data" corresponds to the data and code corresponding to the benchmark dataset "HVD";
 The folder "hmddv3_data" corresponds to the data and code corresponding to the benchmark dataset "HMDD v3.2";
 The codes of these three methods are implemented in python language.
