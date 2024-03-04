@@ -1,6 +1,7 @@
 # LTDSSL
 
 This is the data and code for the paper "Yingjun Ma, Junjiang Zhong. Logistic tensor decomposition with sparse subspace learning for prediction of multiple disease types of human–virus protein–protein interactions[J]. Briefings in Bioinformatics, 2023, 24(1), bbac604. DOI: 10.1093/bib/bbac604".  Please cite if you use this code.
+
 (Written by Yingjun Ma, 2023)
 
 This is the data and code for the paper "Logistic tensor decomposition with sparse subspace learning for prediction of multiple disease types of human-virus protein-protein interactions".  Please cite if you use this code.
